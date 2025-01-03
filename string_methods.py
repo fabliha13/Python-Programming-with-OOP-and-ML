@@ -1,4 +1,6 @@
-my_string1 = "Abracadabra"
+## String Methods
+
+my_string = "Abracadabra"
 
 # print(my_string[-1])
 
