@@ -1,3 +1,6 @@
+##OR/AND
+
+
 gender = input("What is your gender? ").lower()
 age = int(input("What is your age? "))
 

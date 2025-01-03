@@ -1,3 +1,6 @@
+## if, elif, else
+
+
 #example 1
 
 weather = input("What's the weather in your area today?Sunny/Rainy/Foggy? ").lower()
