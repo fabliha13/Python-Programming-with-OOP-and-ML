@@ -27,6 +27,8 @@ fruit_dict = {"apple": 5, "mango":7, "banana": 2}
 # fruit_dict.popitem()
 # print(fruit_dict)
 
+
+## classwork: create a dictionary from 0 to 5 where numbers are the keys and the square of nums are the values
 numbers = {}
 
 for num in range(0,6):
