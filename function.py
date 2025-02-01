@@ -5,6 +5,9 @@
 
 # day_print()
 
+#functions with arguments
+
+
 def day_print(day, price):
     print(day)
 
