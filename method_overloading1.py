@@ -2,6 +2,8 @@
 
 class Calculator:
 
+
+
     def product(self, num1, num2 = None, num3 = None):
         if num1 != None and num2 != None and num3 != None:
             result = num1 * num2 * num3
@@ -15,7 +17,9 @@ class Calculator:
         print(result)
 
 
-    # def product(self, num1, num2, num3):
+    # def product(self, num1, num2):
+    #     result = num1 * num2
+    #     pass
 
 
 obj = Calculator()

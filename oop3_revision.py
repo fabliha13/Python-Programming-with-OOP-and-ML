@@ -2,6 +2,7 @@ class Server:
     def __init__(self, members, meeting="Sunday"): ##constructor
         self.mem = members
         self.meet = meeting #instance variable
+        print("Hello")
 
     def view(self):
         print("Our meeting is on", self.meet)
@@ -24,4 +25,4 @@ server_tibyan = Server(9)
 # print(server_tahiya)
 # print(server_arman)
 
-server_tahiya.view()
+# server_tahiya.view()

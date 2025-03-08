@@ -1,6 +1,6 @@
 class Calculator:
 
-    def product(self, *nums):
+    def product(self, *nums): #(1,2,3,4)
         result = 1
 
         for el in nums:
